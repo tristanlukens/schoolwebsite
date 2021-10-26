@@ -1,0 +1,11 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.nav-after {
+		/* to use, add "relative after:nav-after hover:after:scale-x-100" to the parent */
+		@apply z-[-10] absolute bottom-0 top-1/2 -left-2 -right-2 bg-mainred opacity-80 origin-center transition-transform scale-x-0;
+	}
+}
