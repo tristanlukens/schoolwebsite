@@ -1,7 +1,3 @@
-<script>
-	import Main from "../components/main/main.svelte";
-</script>
-
 <div class="h-calc">
 	<!-- not a component; it is never repeated -->
 	<main class="text-center flex flex-col justify-evenly px-10 h-full">
