@@ -4,6 +4,10 @@
 
 <svelte:head>
 	<title>Over mij | tristanlukens</title>
+	<meta
+		name="description"
+		content="Welkom bij mijn website! Ik ben Tristan, en op deze pagina kun je wat lezen over mij."
+	/>
 </svelte:head>
 
 <Project

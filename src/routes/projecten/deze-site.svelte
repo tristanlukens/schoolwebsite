@@ -4,6 +4,7 @@
 
 <Project
 	name="Deze site | tristanlukens"
+	desc="Welkom bij mijn website! Ik ben Tristan, en dit project gaat over deze site."
 	content={`
 
 # Deze site

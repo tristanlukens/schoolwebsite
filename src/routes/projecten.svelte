@@ -12,6 +12,10 @@
 
 <svelte:head>
 	<title>Projecten | tristanlukens</title>
+	<meta
+		name="description"
+		content="Welkom bij mijn website! Ik ben Tristan, en dit is het hart van mijn informaticapfofiel: de projecten."
+	/>
 </svelte:head>
 
 <section class="text-center pt-16">

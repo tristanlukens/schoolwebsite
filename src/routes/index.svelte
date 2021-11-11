@@ -1,5 +1,9 @@
 <svelte:head>
 	<title>home | tristanlukens</title>
+	<meta
+		name="description"
+		content="Welkom bij mijn website! Ik ben Tristan, en dit is mijn informaticapfofiel."
+	/>
 </svelte:head>
 
 <!-- not a component; it is never repeated -->
