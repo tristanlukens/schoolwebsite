@@ -9,3 +9,9 @@
 		@apply z-[-10] absolute bottom-0 top-1/2 -left-2 -right-2 bg-mainred opacity-80 origin-center transition-transform scale-x-0;
 	}
 }
+
+@layer utilities {
+	.h-calc {
+		@apply h-[calc(100%-2.5rem)];
+	}
+}

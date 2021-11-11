@@ -2,4 +2,6 @@
 	import Main from "../components/main/main.svelte";
 </script>
 
-<Main />
+<div class="h-calc">
+	<Main />
+</div>
