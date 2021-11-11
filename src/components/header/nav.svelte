@@ -1,5 +1,5 @@
 <script>
-	import { navShown } from "../stores.js";
+	import { navShown } from "../../stores.js";
 </script>
 
 <nav>

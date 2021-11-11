@@ -1,6 +1,6 @@
 <script>
 	import Nav from "./nav.svelte";
-	import { navShown } from "../stores";
+	import { navShown } from "../../stores";
 </script>
 
 <header class="shadow-lg p-2 h-10">
