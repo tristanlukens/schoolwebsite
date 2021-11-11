@@ -1,4 +1,4 @@
-import{S as s,i as l,s as m,k as d,j as k,Q as h,d as o,n as p,m as c,f as u,o as g,F as v,x as j,u as w,v as f}from"../chunks/vendor-e6d7407a.js";import{P as b}from"../chunks/project-ae1888e0.js";function z(r){let t,n,a;return n=new b({props:{name:"Over mij | tristanlukens",content:`
+import{S as l,i as d,s as k,e as c,k as p,j as h,Q as u,c as g,d as r,n as v,m as j,b as s,D as w,f,o as b,F as z,x as I,u as S,v as _}from"../chunks/vendor-e6d7407a.js";import{P as T}from"../chunks/project-a35c67ea.js";function x(m){let n,i,t,o;return t=new T({props:{name:"Over mij | tristanlukens",content:`
 # Over mij
 
 Ik ben Tristan, 15 jaar en houd van drummen en programmeren.
@@ -65,4 +65,4 @@ Ik denk dat ik nu wel genoeg heb verteld.
 Doe vooral de groetjes.
 
 _**Tristan**_
-`}}),{c(){t=d(),k(n.$$.fragment),this.h()},l(e){h('[data-svelte="svelte-8kwspz"]',document.head).forEach(o),t=p(e),c(n.$$.fragment,e),this.h()},h(){document.title="Over mij | tristanlukens"},m(e,i){u(e,t,i),g(n,e,i),a=!0},p:v,i(e){a||(j(n.$$.fragment,e),a=!0)},o(e){w(n.$$.fragment,e),a=!1},d(e){e&&o(t),f(n,e)}}}class _ extends s{constructor(t){super();l(this,t,null,z,m,{})}}export{_ as default};
+`}}),{c(){n=c("meta"),i=p(),h(t.$$.fragment),this.h()},l(e){const a=u('[data-svelte="svelte-zp128o"]',document.head);n=g(a,"META",{name:!0,content:!0}),a.forEach(r),i=v(e),j(t.$$.fragment,e),this.h()},h(){document.title="Over mij | tristanlukens",s(n,"name","description"),s(n,"content","Welkom bij mijn website! Ik ben Tristan, en op deze pagina kun je wat lezen over mij.")},m(e,a){w(document.head,n),f(e,i,a),b(t,e,a),o=!0},p:z,i(e){o||(I(t.$$.fragment,e),o=!0)},o(e){S(t.$$.fragment,e),o=!1},d(e){r(n),e&&r(i),_(t,e)}}}class M extends l{constructor(n){super();d(this,n,null,x,k,{})}}export{M as default};
