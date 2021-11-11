@@ -12,6 +12,6 @@
 
 @layer utilities {
 	.h-calc {
-		@apply h-[calc(100%-2.5rem)];
+		@apply h-[calc(100vh-2.5rem)];
 	}
 }

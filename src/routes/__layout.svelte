@@ -4,6 +4,6 @@
 </script>
 
 <Header />
-<div class="h-[inherit]">
+<div class="h-calc">
 	<slot />
 </div>
