@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>home | tristanlukens</title>
+</svelte:head>
+
 <!-- not a component; it is never repeated -->
 <main class="text-center flex flex-col justify-evenly px-10 h-calc">
 	<div>
