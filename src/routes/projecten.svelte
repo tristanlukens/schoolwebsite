@@ -5,7 +5,6 @@
 		{
 			name: "Deze site",
 			date: "11 november 2021",
-			link: "/projecten/deze-site",
 		},
 	];
 </script>
@@ -25,7 +24,7 @@
 	<!-- cards for projects -->
 	<div class="mt-8 flex flex-col gap-4 items-center text-left pb-16">
 		{#each projects as project}
-			<Card name={project.name} date={project.date} link={project.link} />
+			<Card name={project.name} date={project.date} />
 		{/each}
 	</div>
 </section>
